@@ -1,5 +1,5 @@
 ﻿# Open-Source-Software-Engineering
-![Alt text](./Slide 4_3 - 1.png)
+![Alt text](./1.png)
 
 Welcome to the **Open Source Software Engineering Degree** repository! This is a self-paced, community-driven program designed for aspiring software engineers who want to build a solid foundation in programming, computer science, and modern software development practices.
 
