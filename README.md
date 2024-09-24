@@ -1,5 +1,8 @@
 ﻿# Open-Source-Software-Engineering
 
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="Slide 4_3 - 1">
+</picture>
 
 Welcome to the **Open Source Software Engineering Degree** repository! This is a self-paced, community-driven program designed for aspiring software engineers who want to build a solid foundation in programming, computer science, and modern software development practices.
 
