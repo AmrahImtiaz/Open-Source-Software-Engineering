@@ -101,13 +101,4 @@ The curriculum is divided into modules, which are structured to gradually build 
 - [Postman](https://www.postman.com/)
 - [Slack](https://slack.com/) for communication
 
----
 
-## 👥 Contributing
-
-We welcome contributions from everyone! Here's how you can get involved:
-
-1. **Fork this repository**: Click the Fork button at the top right of this page and make a copy of this repository to your own GitHub account.
-2. **Clone the repository**: Clone your fork to your local machine using:
-   ```bash
-   git clone https://github.com/your-username/open-source-software-engineer-degree.git
